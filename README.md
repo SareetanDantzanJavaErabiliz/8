@@ -7,3 +7,6 @@ Biltegi honetako karpeta bakoitza kapituluko adibide bati dagokio. Hona hemen ad
 - DantzaTaldeaArray: 198. orr.
 - KaraktereKateak1: 207. orr.
 - Tenperatura: 193. orr.
+
+| [Liburuaren aurkezpena](https://youtu.be/b7Lp1WZJflE) | [Liburuaren erabilpena](https://youtu.be/xtkatKohanU) |
+| ------------- | ------------- |
